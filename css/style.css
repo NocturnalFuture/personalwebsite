@@ -244,6 +244,10 @@ canvas{
 
 @media only screen and (max-width: 576px) { 
 
+.logoholder{
+    margin-bottom: 20px;
+}
+
     .footer{
         flex-direction: column;
         justify-content: flex-start;
@@ -256,6 +260,9 @@ canvas{
     }
 
 }
+
+
+
 
 .fade-in{
     opacity: 0;
