@@ -117,7 +117,7 @@ function log() {
   
   log();
 
-  /*
+  
 const faders = document.querySelectorAll('.fade-in')
 const appearOptions = {
     threshold: 1
@@ -156,4 +156,3 @@ target.addEventListener('click', () => {
     hiddenClass2.classList.toggle("opened2")
 })
 
-*/
