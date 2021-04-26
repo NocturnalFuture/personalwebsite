@@ -71,7 +71,7 @@ void main(void)
 `
 
 sandbox.load(frag);
-sandbox.setUniform("image", "../images/ship.jpg")
+sandbox.setUniform("image", "https://nocturnalfuture.github.io/personalwebsite/images/ship.jpg")
 
 const locations = document.querySelectorAll(".loco div")
 
